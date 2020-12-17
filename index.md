@@ -4,6 +4,7 @@ Jestem studentem AGH pierwszego roku na wydziale Elektrotechniki, Automatyki, In
 ### Currently working on:
 [Project-Maze](https://github.com/AGH-Narzedzia-Informatyczne/Project-Maze)
 Here's how it looks:
+
 ![Calculator](kalkulator.png)
 
 - 📫 How to reach me: bartek.sambor@gmail.com
